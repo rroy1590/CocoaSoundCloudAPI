@@ -40,5 +40,5 @@ NSString * const kSCSoundCloudSandboxAPIURL = @"https://api.sandbox-soundcloud.c
 NSString * const kSCSoundCloudSandboxAccessTokenURL = @"https://api.sandbox-soundcloud.com/oauth2/token";
 NSString * const kSCSoundCloudSandboxAuthURL = @"https://sandbox-soundcloud.com/connect";
 
-NSString * const kTermsOrServiceUrl = @"http://pages.soundcloud.com/legal/plain/terms-of-use-ios.html?format=ios";
-NSString * const kPrivacyPolicyUrl  = @"http://pages.soundcloud.com/legal/plain/privacy-policy.html?format=ios";
+NSString * const kTermsOfServiceURL = @"http://pages.soundcloud.com/legal/plain/terms-of-use-ios.html?format=ios";
+NSString * const kPrivacyPolicyURL  = @"http://pages.soundcloud.com/legal/plain/privacy-policy.html?format=ios";
