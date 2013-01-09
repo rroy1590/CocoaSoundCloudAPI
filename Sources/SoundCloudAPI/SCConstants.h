@@ -39,3 +39,11 @@ extern NSString * const kSCSoundCloudAuthURL;
 extern NSString * const kSCSoundCloudSandboxAPIURL;
 extern NSString * const kSCSoundCloudSandboxAccessTokenURL;
 extern NSString * const kSCSoundCloudSandboxAuthURL;
+
+extern NSString * const kTermsOrServiceUrl;
+extern NSString * const kPrivacyPolicyUrl;
+
+extern float const kSCBorderRadius;
+
+extern NSUInteger const kSCUsernameTextFieldTag;
+extern NSUInteger const kSCPasswordTextFieldTag;
