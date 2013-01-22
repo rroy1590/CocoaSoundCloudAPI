@@ -39,7 +39,7 @@ Please note, that these `Pods` already include following `dependencies`:
 * `JSONKit`
 * `NXOAuth2Client`
 
-^5 Everything is set up, and you can skip to the **Usage** section!
+:hand: ^5 Everything is set up, and you can skip to the **Usage** section!
 
 ### In the Terminal
 
